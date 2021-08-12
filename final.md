@@ -10,6 +10,7 @@
    * Which has a greater impact on starting median salary: school type or region?
    * Which school types have the largest percentage increase from starting median salary to mid-career median salary?
    * Which school types have the largest disparity between their mid-career 75th percentile salary earners and their mid-career 25th percentile salary earners?
+   * Which degrees have the largest disparity between their mid-career 90th percentile salary earners and their mid-career 10th percentile salary earners?
    
 3. Answer your questions using data analysis skills!
 
@@ -40,7 +41,14 @@ Add a column to the salaries by colleges sheet that calculates the difference be
 Create a pivot table with school type as the rows and the average of the new column as the values.
 !['Mid-Career 75th Percentile Salary vs. Mid-Career 25th Percentile Salary Pivot Table', 'This is a picture of a pivot table that shows the average difference for mid-career 75th percentile salary vs. mid-career 25th percentile by college type'](https://user-images.githubusercontent.com/87663499/129075851-148f774d-f465-48a2-b438-c656f982cf62.png)
 
-Come to a conclusion:
+Come to a conclusion:<br>
+After analyzing the data, it becomes clear that Ivy League schools have the largest difference between the mid-career 75th percentile salary and mid-career 25th percentile salary, making their interquartile the largest of the different school type categories. Conversely, state schools had the smallest interquartile range. This shows that Ivy Legaue graduates had a larger overall range of earning within its middle 50% while state school graduates had the smallest range within its middle 50%.
+
+#### "Which degrees have the largest disparity between their mid-career 90th percentile salary earners and their mid-career 10th percentile salary earners?"
+Add a column to the degrees that pay back sheet that calculates the difference between mid-career 90th percentile salary and mid-career 10th percentile salary for each degree. Sort Z to A for the largest disparity.
+!['Mid-Career 90th Percentile Salary vs. Mid-Career 10th Percentile Salary','This is a picture that shows the 90th percentile salary vs. 10th percentile salary for different degrees at the mid-career stage'](https://user-images.githubusercontent.com/87663499/129090218-5e620569-34b6-4f14-879f-798a40847d22.png)
+
+
 
 
 
