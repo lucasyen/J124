@@ -11,6 +11,7 @@
    * Which school types have the largest percentage increase from starting median salary to mid-career median salary?
    * Which school types have the largest disparity between their mid-career 75th percentile salary earners and their mid-career 25th percentile salary earners?
    * Which degrees have the largest disparity between their mid-career 90th percentile salary earners and their mid-career 10th percentile salary earners?
+   * Which region has the largest percent increase from starting median salary to mid-career median salary?
    
 3. Answer your questions using data analysis skills!
 
@@ -48,7 +49,21 @@ After analyzing the data, it becomes clear that Ivy League schools have the larg
 Add a column to the degrees that pay back sheet that calculates the difference between mid-career 90th percentile salary and mid-career 10th percentile salary for each degree. Sort Z to A for the largest disparity.
 !['Mid-Career 90th Percentile Salary vs. Mid-Career 10th Percentile Salary','This is a picture that shows the 90th percentile salary vs. 10th percentile salary for different degrees at the mid-career stage'](https://user-images.githubusercontent.com/87663499/129090218-5e620569-34b6-4f14-879f-798a40847d22.png)
 
+Come to a conclusion:<br>
+Economics is the degree with the largest difference between top earners and bottom earners. Finance, math, marketing, and philosophy round out the rest of the top five for largest difference between top earners and bottom earners. On the other hand, nursing, physician assistant, nutrition, Spanish, and health care administration degrees form the top five for the smallest difference between top earners and bottom earners.
 
+#### "Which region has the largest percent increase from starting median salary to mid-career median salary?"
+Add a column to the salaries by region sheet that calculates the percent increase from starting median salary to mid-career median salary.
+!['Percent Increase from Starting to Mid-Career Median Salary','This is a picture of a column that calculates the percent increase of each college from starting to mid-career median salary'](https://user-images.githubusercontent.com/87663499/129135552-1a0439ac-ec2a-4b10-8bdc-bde8bf8986cf.png)
 
+Create a pivot table with region as the rows and the average of the new column as the values.
+!['Average Percent Increase from Starting to Mid-Career Median Salary by Region', 'This is a picture of a pivot table that shows the average percent increase from starting to mid-career median salary by region'](https://user-images.githubusercontent.com/87663499/129135852-62122e54-ae08-409a-80ed-35ef9743af16.png)
+
+Come to a conclusion:<br>
+On average, Northeastern college graduates experience the largest percent increase from starting median salary to mid-career median salary. The other end of the spectrum, the lowest percent increase from starting median salary to mid-career median salary, is the West when not including California.
+
+## Story Pitch
+Short Summary:<br>
+After conducting this data analysis, I could write a story that advises students to consider future earning potential when deciding on a college. From a purely dispassionate point of view, the data does not consider personal factors like attachment to home or passion for a particular field after all, I could write about the most logical college routes in terms of earning potential. However, it would not be as simple as telling readers to earn an engineering degree from California since that route provides the highest average starting median salary. It would also not be as simple as telling readers to earn an Ivy League degree since those graduates, on average, experience the most growth from starting to median salary. Instead this article would provide a comprehensive list of pathways for prospecting college students 
 
 
