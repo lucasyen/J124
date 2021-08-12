@@ -64,6 +64,29 @@ On average, Northeastern college graduates experience the largest percent increa
 
 ## Story Pitch
 Short Summary:<br>
-After conducting this data analysis, I could write a story that advises students to consider future earning potential when deciding on a college. From a purely dispassionate point of view, the data does not consider personal factors like attachment to home or passion for a particular field after all, I could write about the most logical college routes in terms of earning potential. However, it would not be as simple as telling readers to earn an engineering degree from California since that route provides the highest average starting median salary. It would also not be as simple as telling readers to earn an Ivy League degree since those graduates, on average, experience the most growth from starting to median salary. Instead this article would provide a comprehensive list of pathways for prospecting college students 
+After conducting this data analysis, I could write a story that advises students to consider future earning potential when deciding on a college. Using information from the purely dispassionate earning point of view, the data does not consider personal factors like attachment to a hometown or passion for a particular field after all, and the understanding that students must consider more than future earnings, I could write about the most logical college routes in terms of earning potential. The article could neither be as simple as telling readers to earn an engineering degree from California since that route provides the highest average starting median salary; nor could it be as simple as telling readers to earn an Ivy League degree since those graduates, on average, experience the most growth from starting to median salary. Instead, this article would provide a comprehensive list of pathways for prospecting college students to maximize their earning potential based on various personal situations like preferred region and proessional field or degree.
+
+Potential Interviews:<br>
+Jaison Abel - Assistant Vice President and Head of the Regional Analysis Function at the Federal Reserve Bank of New York; jaison.abel@ny.frb.org<br>
+As the co-author of a paper titled "Do the Benefits of College Still Outweigh the Costs?" and by virtue of his professional position at the Federal Reserve Bank of New York, Jaison Abel seems like he would be an ideal choice for this kind of article as he can expertly explain the economics of a college degree.<br>
+
+Richard Deitz - Assistant Vice President and Senior Economist for the Federal Reserve Bank of New York, has been with the Federal Reserve since 1998; richard.deitz@ny.frb.org<br>
+Richard Deitz is the co-author of the "Do the Benefits of College Still Outweight the Costs?" paper and would also be an ideal interview to explain the economics of the modern college degree.
+
+Martin Van Der Werf - Associate Director of Editorial and Postsecondary Policy for the Center on Education and the Workforce which is part of Georgetown University; @M_Vanderwerf on Twitter<br>
+Martin Van Der Werf is the co-author of "Buyer Beware: FIRST-YEAR EARNINGS AND DEBT FOR 37,000 COLLEGE MAJORS AT 4,400 INSTITUTIONS", a 2020 report on the value of different college degrees at many of the major United States universities.
+
+Additional Reports:<br>
+I would use the 2020 report called "Buyer Beware: First-Year Earnings and Debt for 37,000 College Majors at 4,400 Institutions" since it provides some of the most current data on exactly the topic that I would be reporting on.<br>
+Link: https://1gyhoq479ufd3yna29x7ubjn-wpengine.netdna-ssl.com/wp-content/uploads/CEW-Buyer-Beware.pdf
+
+I would use this 2019 research paper called "The Relationship Between Work During College and Post College Earnings" because I think the wrinkle that this paper could add to the overall reporting could be a really interesting angle to add to the piece.<br>
+Link: https://www.frontiersin.org/articles/10.3389/fsoc.2019.00078/full
+
+## Data Visualization
+!['Average of Starting Median Salary for College Type vs. Region Bar Chart','This is a picture of a bar chart that shows the average starting median salary for different school types and for different regions'](https://user-images.githubusercontent.com/87663499/129158228-b86170d0-518f-4d9f-b413-69fd82fa154e.png)
+Link to the chart: https://datawrapper.dwcdn.net/DFkbY/1/
+
+['This is the csv I used throughout this project','This is the dataset that has all the figures I used to complete this assignment'](https://github.com/lucasyen/J124/files/6973676/Data.Journalism.Final.Sheets.-.colleges.csv)
 
 
