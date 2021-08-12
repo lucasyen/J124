@@ -87,6 +87,11 @@ Link: https://www.frontiersin.org/articles/10.3389/fsoc.2019.00078/full
 !['Average of Starting Median Salary for College Type vs. Region Bar Chart','This is a picture of a bar chart that shows the average starting median salary for different school types and for different regions'](https://user-images.githubusercontent.com/87663499/129158228-b86170d0-518f-4d9f-b413-69fd82fa154e.png)
 Link to the chart: https://datawrapper.dwcdn.net/DFkbY/1/
 
-['This is the csv I used throughout this project','This is the dataset that has all the figures I used to complete this assignment'](https://github.com/lucasyen/J124/files/6973676/Data.Journalism.Final.Sheets.-.colleges.csv)
+## CSV Files used for this project:<br>
+[Degrees that pay back dataset](https://github.com/lucasyen/J124/files/6973722/degrees-that-pay-back.csv)<br>
+[Salaries by college type dataset](https://github.com/lucasyen/J124/files/6973723/salaries-by-college-type.csv)<br>
+[Salaries by region dataset](https://github.com/lucasyen/J124/files/6973724/salaries-by-region.csv)
+
+
 
 
