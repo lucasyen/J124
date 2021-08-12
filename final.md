@@ -88,9 +88,13 @@ Link: https://www.frontiersin.org/articles/10.3389/fsoc.2019.00078/full
 Link to the chart: https://datawrapper.dwcdn.net/DFkbY/1/
 
 ## CSV Files used for this project:<br>
+Original Files -<br>
 [Degrees that pay back dataset](https://github.com/lucasyen/J124/files/6973722/degrees-that-pay-back.csv)<br>
 [Salaries by college type dataset](https://github.com/lucasyen/J124/files/6973723/salaries-by-college-type.csv)<br>
-[Salaries by region dataset](https://github.com/lucasyen/J124/files/6973724/salaries-by-region.csv)
+[Salaries by region dataset](https://github.com/lucasyen/J124/files/6973724/salaries-by-region.csv)<br>
+
+Final Sheet -<br>
+[Data Journalism Final Sheets Google Sheet into Excel Spreadsheet](https://github.com/lucasyen/J124/files/6976976/Data.Journalism.Final.Sheets.xlsx)
 
 
 
